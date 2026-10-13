@@ -1,0 +1,1 @@
+{"properties":{"urls":{"description":"Website URLs to analyze, one per line. Each site is fetched over HTTP and fingerprinted for known technologies.","editor":"textarea","prefill":"https://www.shopify.com","title":"URLs","type":"string"}},"required":["urls"],"schemaVersion":1,"title":"Tech Stack Detector input","type":"object"}

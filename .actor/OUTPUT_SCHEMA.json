@@ -1,0 +1,1 @@
+{"actorOutputSchemaVersion":1,"description":"Detected technology stacks, one row per analyzed site.","properties":{"dataset":{"description":"Dataset with one row per site: URL, detected technologies, categories, and tech count.","template":"{{links.apiDefaultDatasetUrl}}/items","title":"Sites","type":"string"}},"title":"Tech Stack Detector output"}
